@@ -1,10 +1,10 @@
 
-flake8
-black
-autopep8
-numpy
-torch
-scikit-learn
-matplotlib
-seaborn
-pytest
+flake8==7.3.0
+blackblack==26.1.0
+autopep8==2.3.2
+numpy==1.26.4
+torch==2.2.2
+scikit-learn==1.4.0
+matplotlib==3.8.2
+seaborn==0.11.0
+pytest==9.0.2
